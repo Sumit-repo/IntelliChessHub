@@ -53,7 +53,3 @@ Contributions are welcome! If you have suggestions or find bugs, please open an 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize the content based on your project's specifics. Add sections or details that are relevant to your project, and make sure to replace placeholder URLs and usernames with your actual information.
